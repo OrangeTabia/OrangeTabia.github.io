@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("fontawesome-all.min.css");
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    color: #777777;
+    font-size: 20pt;
+    line-height: 1.75em;
+}
+
+strong, b, h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    color: #363636;
+}
+
+h1 {
+    font-size: 2.4em;
+    letter-spacing: -0.015em;
+}
+
+h2 {
+    font-size: 1.8em;
+    letter-spacing: -0.015em;
+}
+
+h3, h4, h5, h6 {
+    font-size: 1.25em;
+    letter-spacing: -0.015em;
+}
