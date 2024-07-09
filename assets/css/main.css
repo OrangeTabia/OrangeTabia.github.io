@@ -89,6 +89,10 @@ input, select, textarea {
 		color: darkgray;
 	}
 
+	.project-description {
+		height: 230px;
+	}
+
 	.row {
 		display: flex;
 		flex-wrap: wrap;
