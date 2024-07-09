@@ -73,6 +73,21 @@ input, select, textarea {
 }
 
 /* Row */
+	.col-4 > a > p, 
+	.col-4 > a > img {
+		margin-bottom: 15px;
+		text-decoration: none;
+	}
+
+	.col-4 > a {
+		text-decoration: none;
+		color: inherit;
+		font-weight: bold;
+	}
+
+	.col-4 > a:hover {
+		color: darkgray;
+	}
 
 	.row {
 		display: flex;
