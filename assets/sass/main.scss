@@ -678,7 +678,7 @@
 
 			&.intro {
 				padding: 0;
-				height: 20em;
+				height: 30em;
 				@include vendor('display', 'flex');
 				@include vendor('flex-direction', 'row');
 				@include vendor('align-items', 'center');
